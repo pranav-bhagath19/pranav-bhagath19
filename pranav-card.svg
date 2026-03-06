@@ -32,7 +32,7 @@
   <circle cx="52" cy="21" r="6" fill="#28c840"/>
 
   <!-- Title bar text -->
-  <text x="380" y="26" text-anchor="middle" fill="#6b6b6b" font-size="11">terminal — </text>
+  <text x="380" y="26" text-anchor="middle" fill="#6b6b6b" font-size="11">terminal       — </text>
   <text x="440" y="26" text-anchor="middle" fill="#888888" font-size="11">~/pranav-bhagath19</text>
 
   <!-- Prompt line -->
